@@ -1,8 +1,8 @@
 # SYN Flood Attack Tool
 ### How to install and run?
 ```
-git clone https://github.com/s3a6m9/SYN-Flood-Attack
-cd SYN-Flood-Attack
+git clone https://github.com/s3a6m9/SYN-Flood-Attack-Tool
+cd SYN-Flood-Attack-Tool
 
 # Setting up the virtual environment
 python3 -m venv venv 
